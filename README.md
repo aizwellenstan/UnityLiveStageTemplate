@@ -3,6 +3,7 @@
 	* Aura VolmeticLighting
 
 # 使ったもの
+- https://3d.nicovideo.jp/alicia/
 - UniVRM (MIT) https://github.com/vrm-c/UniVRM
 - Unity-Chan "Candy Rock Star" (© UTJ/UCL) https://github.com/unity3d-jp/unitychan-crs
 
