@@ -9,6 +9,7 @@
 - https://3d.nicovideo.jp/alicia/
 - UniVRM (MIT) https://github.com/vrm-c/UniVRM
 - Unity-Chan "Candy Rock Star" (© UTJ/UCL) https://github.com/unity3d-jp/unitychan-crs
+- OVRLipSync
 
 <img src="UCL2.0/License Logo/Others/png/Light_Frame.png" alt="UCL2.0">
 
